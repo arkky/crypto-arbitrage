@@ -1,0 +1,13 @@
+{
+    "binance": {"base_url": "https://api2.binance.com", "ticker_price": "/api/v3/ticker/24hr", "status": "/api/v3/exchangeInfo", "coin_info": "/sapi/v1/capital/config/getall", "change_leverage": "/fapi/v1/leverage"},
+    "kucoin": {"base_url": "https://api.kucoin.com", "ticker_price": "/api/v1/market/allTickers", "status": "/api/v2/symbols", "coin_info": "/api/v1/currencies", "для кукоина можно сразу определять спред между ценами по ticker_price": ""},
+    "coinbase": {"base_url": "https://api.coinbase.com", "ticker_price": "/v2/exchange-rates?currency=USDT", "status": "", "coin_info": ""},
+    "kraken": {"base_url": "ASYNC", "ticker_price": "", "coin_info": ""},
+    "bitstamp": {"base_url": "https://www.bitstamp.net", "ticker_price": "/api/v2/ticker/", "status": "", "coin_info": ""},
+    "okx": {"base_url": "https://www.okx.com", "ticker_price": "/api/v5/market/tickers?instType=SPOT", "status": "/api/v5/public/instruments?instType=SPOT", "coin_info": "/api/v5/asset/currencies"},
+    "bybit": {"base_url": "https://api.bybit.com", "ticker_price": "/spot/v3/public/quote/ticker/24hr", "status": "/spot/v3/public/symbols", "coin_info": "/asset/v3/private/coin-info/query"},
+    "bithumb": {"base_url": "https://api.bithumb.com", "ticker_price": "/public/ticker/ALL_KRW", "status": "", "coin_info": ""},
+    "bitget": {"base_url": "https://api.bitget.com", "ticker_price": "/api/spot/v1/market/tickers", "status": "/api/spot/v1/public/products", "coin_info": "/api/spot/v1/public/currencies"},
+    "gate": {"base_url": "https://api.gateio.ws/api/v4", "ticker_price": "/spot/tickers", "status": "/spot/currency_pairs", "coin_info": "/spot/currencies"},
+    "lbank": {"base_url": "https://api.lbkex.com", "ticker_price": "", "status": "", "coin_info": ""}
+}

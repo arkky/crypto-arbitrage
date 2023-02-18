@@ -1,0 +1,18 @@
+{
+    "TRADE": [["kucoin", "okx"], ["okx", "gate"]],
+    "STC": [["kucoin", "okx"], ["bitget", "kucoin"], ["bitget", "gate"], ["kucoin", "gate"], ["okx", "gate"]],
+    "GAS": [["bybit", "okx"], ["bybit", "kucoin"]],
+    "MC": [["binance", "kucoin"]],
+    "BIFI": [["binance", "kucoin"]],
+    "RUNE": [["bybit", "binance"], ["bybit", "kucoin"]],
+    "TON": [["bybit", "gate"], ["kucoin", "gate"], ["okx", "gate"]],
+    "ELT": [["bybit", "gate"], ["okx", "gate"]],
+    "DFL": [["bybit", "gate"]],
+    "ORT": [["bybit", "gate"]],
+    "FAME": [["bybit", "gate"], ["okx", "gate"]],
+    "REAL": [["bybit", "gate"]],
+    "SWP": [["kucoin", "gate"]],
+    "BABYDOGE": [["bitget", "gate"], ["bitget", "okx"], ["okx", "gate"]],
+    "WILD": [["kucoin", "gate"]],
+    "PIAS": [["kucoin", "gate"]]
+}
