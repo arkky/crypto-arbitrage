@@ -1,0 +1,8 @@
+[
+  "binance": {
+    "public": "YOUR PUBLIC KEY",
+    "private": "YOUR PRIVATE KEY"
+  },
+  "Other exchanges": {},
+  "telegram": {"private": "YOUR PRIVATE TELEGRAM BOT API KEY"}
+]
